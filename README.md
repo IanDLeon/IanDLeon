@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IanDLeon
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript on Scrimba trying to get into a bootcamp. 
+- 🌱 I’m currently learning JavaScript on Scrimba trying to get into a bootcamp.
+- Update got into a bootcamp at GA.
 - 💞️ I’m looking to collaborate on small projects to help me learn as well as helping the community. 
 - 📫 How to reach me 
 
