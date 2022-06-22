@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @IanDLeon
-- 👀 I’m interested in coding.
+- 👋 Hi Hackers, I’m @IanDLeon welcome to my Github.
+- 👀 
 - 🌱 I’m currently learning JavaScript on Scrimba trying to get into a bootcamp.
-- Update got into a bootcamp at GA.
-- 💞️ I’m looking to collaborate on small projects to help me learn as well as helping the community. 
-- 📫 How to reach me 
+- 🌱 Currently coursing through Software Engineering Immersive at General Assembly.
+- 💞️ I’m looking to collaborate on projects to help me learn as well as helping the community. 
+- 📫 How to reach me https://www.linkedin.com/in/ianrdeleon/
 
 <!---
 IanDLeon/IanDLeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
